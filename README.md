@@ -102,6 +102,12 @@ git clone bmi
 npm install
 ```
 
+**Build the app:**
+
+```
+npm run build
+```
+
 **Start the server:**
 
 ```
