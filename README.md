@@ -2,6 +2,16 @@
 
 This is a BMI Calculator built using Node.js, Express, and TypeScript. It calculates BMI based on a user’s weight (kg) and height (meters) and classifies the result according to BMI categories.
 
+## Deployment
+
+The API has been deployed to Render and can be accessed using the following endpoint:
+[https://bmi-calculator-ztm5.onrender.com]
+**Example usage:**
+
+```
+GET https://bmi-calculator-ztm5.onrender.com/api/bmi?weight=70&height=1.75
+```
+
 **BMI is calculated using the following formula:**
 
 ```
