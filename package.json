@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc --project tsconfig.json",
-    "start": "tsc --project tsconfig.json & node ./dist/"
+    "start": "tsc --project tsconfig.json & node ./dist/",
+    "test": "jest"
   },
   "author": "Rio",
   "license": "MIT",
