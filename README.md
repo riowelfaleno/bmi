@@ -12,6 +12,8 @@ The API has been deployed to Render and can be accessed using the following endp
 GET https://bmi-calculator-ztm5.onrender.com/api/bmi?weight=70&height=1.75
 ```
 
+## Explanation
+
 **BMI is calculated using the following formula:**
 
 ```
@@ -54,6 +56,8 @@ height:
 - Type: number
 - Required: true
 ```
+
+## Examples
 
 **Success example:**
 
